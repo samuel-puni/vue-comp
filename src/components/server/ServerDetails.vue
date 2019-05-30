@@ -1,6 +1,7 @@
 <template>
     <div class="col-xs-12 col-sm-6">
-        <p>Server Details are currently not updated</p>
+        <p>The Server Staus is: </p>
+        <button @click="changeStatus">Change Status</button>
     </div>
 </template>
 
