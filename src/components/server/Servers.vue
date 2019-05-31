@@ -9,7 +9,7 @@
 
 <script>
   import Sever from './Server.vue';
-  //import { eventBus } from '../../main';
+  import { eventBus } from '../../main';
   
   export default {
     data: function() {
